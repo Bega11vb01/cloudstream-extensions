@@ -1,0 +1,14 @@
+// Filmgalası Eklentisi
+// Bu eklenti ChatGPT tarafından oluşturulmuştur.
+// Film ve dizi içerikleri için çeşitli kaynakları destekler.
+
+name = "Filmgalası"
+version = "1.0.0"
+description = "Popüler film ve dizi kaynaklarını içeren Cloudstream eklentisi."
+
+// Örnek kaynaklar:
+// - https://filmizlex.net
+// - https://fullhdfilmizlesene.pw
+// - https://dizibox4.com
+// - https://filmmodu13.com
+// - https://diziwatch.org

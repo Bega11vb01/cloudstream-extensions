@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Filmgalası",
+    "description": "Popüler film ve dizi kaynaklarını içeren Cloudstream eklentisi.",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/KULLANICI_ADIN/cloudstream-extensions/main/filmgalasi/Filmgalası.cs3",
+    "languages": ["tr"],
+    "type": "media",
+    "icon": "https://i.imgur.com/G0n3mPz.png"
+  }
+]
