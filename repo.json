@@ -3,7 +3,7 @@
     "name": "Filmgalası",
     "description": "Popüler film ve dizi kaynaklarını içeren Cloudstream eklentisi.",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/Bega11vb01/cloudstream-extensions/main/Filmgalası.cs3",
+    "url": "https://raw.githubusercontent.com/Bega11vb01/cloudstream-extensions/main/Filmgalasi.cs3",
     "languages": ["tr"],
     "type": "media",
     "icon": "https://i.imgur.com/G0n3mPz.png"
